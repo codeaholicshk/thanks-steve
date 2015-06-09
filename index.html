@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Thanks from the Codeaholics and the Hong Kong developer community</h1>
+
+  <ul class="post-list">
+    {% assign sorted = (site.posts | sort: 'title') %}
+    {% for post in sorted %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <small class="post-meta">{{ post.content | strip_html | truncate: 50 }}</small>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

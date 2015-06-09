@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Jimmy Chu"
+date:   2015-06-01 23:34:26
+categories: thanks
+---
+
+![photo](/images/jimmy-chu.jpg)
+
+> Steve, thanks for organising Codeaholics. It is the first tech meetup I occasionally attend, and now I am helping out here :)
+>
+> All the best to you and your family!
+>
+> A word of wisdom, don't drink so much beer :)
+>
+> Take care,
+>
+> - Jimmy Chu
+>

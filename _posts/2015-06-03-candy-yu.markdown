@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Candy Yu"
+date:   2015-06-02 16:43:12
+categories: thanks
+---
+
+![photo](/images/candy.jpg)
+
+> Thanks

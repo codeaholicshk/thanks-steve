@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Jack Chen"
+date:   2015-06-02 18:06:23
+categories: thanks
+---
+
+![photo](/images/jack-chen.jpg)
+
+> Look forward to kicking your ass in another triathlon race
