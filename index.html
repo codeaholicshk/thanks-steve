@@ -12,7 +12,7 @@ layout: default
       <li>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <small class="post-meta">{{ post.content | strip_html | truncate: 50 }}</small>
+          <small class="post-meta">"{{ post.content | strip_html | truncate: 50 }}"</small>
         </h2>
       </li>
     {% endfor %}
