@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gram"
+title:  "Graham Milosevic"
 date:   2015-06-01 23:12:59
 categories: thanks
 ---

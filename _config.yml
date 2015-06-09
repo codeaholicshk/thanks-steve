@@ -9,3 +9,5 @@ url: "http://thankssteve.codeaholics.hk" # the base hostname & protocol for your
 
 # Build settings
 markdown: kramdown
+
+permalink: none
