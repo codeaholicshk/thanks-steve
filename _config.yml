@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   From Codeaholics and the Hong Kong developer community.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://thankssteve.codeaholics.hk" # the base hostname & protocol for your site
+url: "http://thanks-steve.codeaholics.hk" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
